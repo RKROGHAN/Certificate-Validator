@@ -1,0 +1,6 @@
+com\certificatevalidator\web\MultipartParser.class
+com\certificatevalidator\web\SimpleWebServer.class
+com\certificatevalidator\web\SimpleWebServer$ClientHandler.class
+com\certificatevalidator\web\MultipartParser$MultipartData.class
+com\certificatevalidator\entities\Certificate.class
+com\certificatevalidator\web\MultipartParser$MultipartData$FileData.class
